@@ -13,4 +13,4 @@
 
 ## Here's what the finished app looks like:
 
-<img src="FoodInterfaceLayoutWidgets.png" alt="drawing" width="400"/>
+<img src="FoodInterfaceLayoutWidgets.jpeg" alt="drawing" width="400"/>
